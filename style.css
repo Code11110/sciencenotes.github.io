@@ -1,0 +1,71 @@
+h1 {
+  color: darkblue;
+  background: green;
+  text-align: center;
+}
+h2 {
+  color: black;
+  border: 1px solid black;
+  width: 200px;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+ul {
+  list-style-type: square;
+  size: 27px;
+}
+.big {
+  font-size: 30px;
+}
+.medium {
+  font-size: 20px;
+}
+.small {
+  font-size: 18px;
+  border: 2px solid black;
+  }
+#control {
+  width: 600px;
+  background: turquoise;
+}
+h3 {
+  font-size: 19px;
+  text-decoration: overline underline;
+}
+a:link, a:visited {
+  text-decoration: underline;
+  background-color: green;
+  color: black;
+  border: 1px solid blue;
+  display: block;
+  width: 400px;
+  margin-bottom: 1px
+}
+a:hover, a:active {
+  background-color: red;
+  color: black;
+}
+.list {
+  color: red;
+  font-family: Courier New;
+}
+.pictureright {
+  float: right;
+  margin: 0 0 20px 20px;
+  width: 50%;
+}
+.underline {
+  text-decoration: underline;
+}
+.point{
+  list-style-type: square;
+  size: 27px;
+}
+div {
+  float: right;
+  background-color: azure;
+}
